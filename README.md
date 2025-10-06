@@ -25,7 +25,10 @@ E-Mail: mikotochan@waifu.club
 ## Stats🗒️
 ![ice3353's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice3353&show=prs_merged&show_icons=true&border_radius=10&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice3353&layout=compact&border_radius=10&langs_count=8&theme=dark)
-
+## My Waifus  
+![#](metrics.plugin.anilist.characters.svg)
+## Commit Calendar  
+![#](metrics.plugin.calendar.full.svg)
 <!--
 **stk2598/stk2598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
