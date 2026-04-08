@@ -25,7 +25,7 @@ E-Mail: mikotochan@waifu.club
 ## Stats🗒️
 ![ice3353's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice3353&show=prs_merged&show_icons=true&border_radius=10&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice3353&layout=compact&border_radius=10&langs_count=8&theme=dark)
-## My Waifus❤️
+## My Favorite Characters❤️
 ![#](metrics.plugin.anilist.characters.svg)
 ## Contribute Calendar📆
 ![#](metrics.plugin.calendar.full.svg)
